@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "592af2a4-fb4e-4a45-96fb-17e222b1a81b": {
+      "label": "Susan Howe \"Thorow Part III\"",
+      "is_offline": false,
+      "file_url": "https://media.sas.upenn.edu/pennsound/authors/Howe/Thiefth_w-David-Grubbs_2005/Howe-Susan-and-David-Grubbs_04_Thorow-Part_Three_Thiefth_2005.mp3",
+      "duration": 187
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Susan Howe and David Grubb perform \"Thorow Part III.\" "
+        }
+      ]
+    }
+  ],
+  "citation": "PennSound",
+  "item_type": "Audio",
+  "label": "Susan Howe \"Thorow Part III\"",
+  "created_at": "2024-10-14T22:50:25.674Z",
+  "created_by": "ProfMOD",
+  "updated_at": "2024-10-14T22:50:25.674Z",
+  "updated_by": "ProfMOD"
+}
